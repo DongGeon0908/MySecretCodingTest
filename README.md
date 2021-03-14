@@ -9,7 +9,7 @@
 > 레벨 위주로 매일매일!!
 
 - Level1
-    + [문자열 다루기]()
+    + [문자열 다루기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8)
 
 
 <hr />
