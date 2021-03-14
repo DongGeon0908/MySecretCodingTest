@@ -1,4 +1,4 @@
-class 문자열다루기기본_2 {
+class Solution {
 	public boolean solution(String s) {
 		boolean answer = true;
 
