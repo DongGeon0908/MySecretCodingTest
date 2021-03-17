@@ -12,7 +12,7 @@
     + [문자열 다루기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%8B%A4%EB%A3%A8%EA%B8%B0%20%EA%B8%B0%EB%B3%B8)
     + [핸드폰 번호 가리기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%20%EB%B2%88%ED%98%B8%20%EA%B0%80%EB%A6%AC%EA%B8%B0)
     + [자릿수 더하기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%9E%90%EB%A6%BF%EC%88%98%20%EB%8D%94%ED%95%98%EA%B8%B0)
-    + [하샤드 수]()
+    + [하샤드 수](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%ED%95%98%EC%83%A4%EB%93%9C%20%EC%88%98)
 
 <hr />
 
