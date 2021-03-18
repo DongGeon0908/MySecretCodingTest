@@ -22,6 +22,6 @@
 
 - 그리디
     + [당장 좋은 것만 선택하는 그리디](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%B9%EC%9E%A5%20%EC%A2%8B%EC%9D%80%20%EA%B2%83%EB%A7%8C%20%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94%20%EA%B7%B8%EB%A6%AC%EB%94%94)
-    + [큰 수의 법칙]()
+    + [큰 수의 법칙](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99)
 
 <hr />
