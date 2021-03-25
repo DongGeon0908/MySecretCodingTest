@@ -32,5 +32,6 @@
     + [1이 될 때까지](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80)
 - 구현
     + [상하좌우](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0)
+    + [시각](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0)
 
 <hr />
