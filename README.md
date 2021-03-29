@@ -22,6 +22,7 @@
     + [내적](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/%EB%82%B4%EC%A0%81)
     + [짝수와 홀수](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%A7%9D%EC%88%98%EC%99%80%20%ED%99%80%EC%88%98)
     + [x만큼 간격이 있는 n개의 숫자](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)
+    + [같은 숫자는 싫어]()
 
 <hr />
 
