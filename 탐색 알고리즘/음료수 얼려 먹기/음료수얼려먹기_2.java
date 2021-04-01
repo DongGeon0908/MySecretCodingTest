@@ -1,7 +1,6 @@
-package asd;
-
 import java.util.Scanner;
 
+// DFS
 // 동건 버전
 public class 음료수얼려먹기_2 {
 

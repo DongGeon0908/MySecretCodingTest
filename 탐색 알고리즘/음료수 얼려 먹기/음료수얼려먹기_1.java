@@ -1,7 +1,6 @@
-package asd;
-
 import java.util.Scanner;
 
+// DFS
 public class 음료수얼려먹기_1 {
 
 	public static int n, m;
