@@ -25,7 +25,7 @@
     + [같은 숫자는 싫어](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
     + [정수 제곱근 판별](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
     + [예산](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%98%88%EC%82%B0)
-    + [소수 만들기]
+    + [소수 만들기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 <hr />
 
