@@ -24,7 +24,8 @@
     + [x만큼 간격이 있는 n개의 숫자](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%EC%9D%98%20%EC%88%AB%EC%9E%90)
     + [같은 숫자는 싫어](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4)
     + [정수 제곱근 판별](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84)
-    + [예산]()
+    + [예산](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%98%88%EC%82%B0)
+    + [소수 만들기]
 
 <hr />
 
