@@ -27,6 +27,7 @@
     + [예산](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%98%88%EC%82%B0)
     + [소수 만들기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
     + [체육복](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+    + [최대공약수와 최소공배수]()
 
 <hr />
 
