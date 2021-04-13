@@ -12,7 +12,7 @@ class Solution_1 {
 			}
 			// 공백이 아닐때
 			else {
-				if (check == true) { // 짝수일때 Upper
+				if (check) { // 짝수일때 Upper
 					result = result + s.substring(i, i + 1).toUpperCase();
 					check = false;
 				} else { // 홀수일때 Lower
