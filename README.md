@@ -31,6 +31,7 @@
     + [K번째수](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98/K%EB%B2%88%EC%A7%B8%EC%88%98_1.java)
     + [이상한 문자 만들기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0)
     + [3진법 뒤집기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
+    + [서울에서 김서방 찾기]()
 
 <hr />
 
