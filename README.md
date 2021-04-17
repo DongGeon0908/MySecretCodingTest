@@ -33,7 +33,7 @@
     + [3진법 뒤집기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/3%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0)
     + [서울에서 김서방 찾기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0/Solution_1.java)
     + [신규 아이디 찾기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
-    + [다른 사람의 풀이]()
+    + [다른 사람의 풀이](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
 
 <hr />
 
