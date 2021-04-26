@@ -35,6 +35,7 @@
     + [신규 아이디 찾기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C)
     + [다른 사람의 풀이](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
     + [시저 암호](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
+    + [평균 구하기]()
 
 <hr />
 
