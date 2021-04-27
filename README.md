@@ -36,7 +36,7 @@
     + [다른 사람의 풀이](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%9D%8C%EC%96%91%20%EB%8D%94%ED%95%98%EA%B8%B0)
     + [시저 암호](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8)
     + [평균 구하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/Solution.java)
-    + [모의고사]()
+    + [모의고사](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 
 <hr />
 
