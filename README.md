@@ -38,7 +38,7 @@
     + [평균 구하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0/Solution.java)
     + [모의고사](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
 - Level2
-    - [행렬의 곱셈]()
+    - [행렬의 곱셈](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88/Solution_1.java)
 
 <hr />
 
