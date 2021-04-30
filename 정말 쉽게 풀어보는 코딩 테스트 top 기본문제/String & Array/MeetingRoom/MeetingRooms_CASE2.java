@@ -23,28 +23,27 @@ class Interval {
 
 }
 
-public class MeetingRooms {
+public class MeetingRooms_CASE2 {
 	public static void main(String[] args) {
-		MeetingRooms a = new MeetingRooms();
+		MeetingRooms_CASE2 a = new MeetingRooms_CASE2();
 
-		Interval in1 = new Interval(15, 20);
-		Interval in2 = new Interval(5, 10);
-		Interval in3 = new Interval(0, 30);
+		Interval in1 = new Interval(7, 10);
+		Interval in2 = new Interval(2, 4);
 
-		Interval[] intervals = { in1, in2, in3 };
+		Interval[] intervals = { in1, in2 };
 		System.out.println(a.solve(intervals));
 
 	}
 
 	public boolean solve(Interval[] intervals) {
 		// 1 - 현재 데이터와, 정렬 후 데이터
-		
+
 		// 해당 부분에서는 아직 정렬되지 않은 데이터가 출력됨
 		if (intervals == null) {
 			return false;
 		}
 		print(intervals);
-		
+
 		// 해당 부분 이후 부터는 정렬 이후의 데이터가 출력됨
 		Arrays.sort(intervals, comp);
 		System.out.println("--------정렬후---------");
@@ -52,7 +51,7 @@ public class MeetingRooms {
 
 		// 각 데이터를 비교해서 겹치는 시간이 있는지 파악!
 		for (int i = 1; i < intervals.length; i++) {
-			
+
 			// 만약에 끝시간이 이후 회의시간보다 늦다면 회의는 배정될 수 없음!!
 			if (intervals[i - 1].end > intervals[i].start) {
 				return false;
