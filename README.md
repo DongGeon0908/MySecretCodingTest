@@ -40,6 +40,7 @@
     + [2016년](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level1/2016%EB%85%84/Solution.java)
 - Level2
     - [행렬의 곱셈](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88/Solution_1.java)
+    - [이진 변환 반복하기]()
 
 <hr />
 
