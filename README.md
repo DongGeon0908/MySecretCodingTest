@@ -39,7 +39,6 @@
     + [모의고사](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level1/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC)
     + [2016년](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level1/2016%EB%85%84/Solution.java)
     + [폰켓몬](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
->>>>>>> c3dfd629d09a5ef6fe679ee97d079f465ccda289
 - Level2
     - [행렬의 곱셈](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88/Solution_1.java)
     - [이진 변환 반복하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/Solution.java)
