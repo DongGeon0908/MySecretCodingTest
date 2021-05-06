@@ -40,7 +40,7 @@
     + [2016년](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level1/2016%EB%85%84/Solution.java)
     + [폰켓몬](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level1/%ED%8F%B0%EC%BC%93%EB%AA%AC)
     + [문자열 내 마음대로 정렬하기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%82%B4%20%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
-    + [`1차` 비밀번호]()
+    + [`1차` 비밀번호](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level1/%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)
 - Level2
     - [행렬의 곱셈](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88/Solution_1.java)
     - [이진 변환 반복하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/Solution.java)
