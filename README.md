@@ -72,24 +72,4 @@
 	+ [KClosestPointsToOrigin](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EC%A0%95%EB%A7%90%20%EC%89%BD%EA%B2%8C%20%ED%92%80%EC%96%B4%EB%B3%B4%EB%8A%94%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20top%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/String%20%26%20Array/KClosestPointsToOrigin)
 	+ [PlusOne](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EC%A0%95%EB%A7%90%20%EC%89%BD%EA%B2%8C%20%ED%92%80%EC%96%B4%EB%B3%B4%EB%8A%94%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20top%20%EA%B8%B0%EB%B3%B8%EB%AC%B8%EC%A0%9C/String%20%26%20Array/PlusOne)
 
-### 코딩테스트 전용~~
-> 책 읽고 공부 하자
-
-- 그리디
-    + [당장 좋은 것만 선택하는 그리디](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%EB%8B%B9%EC%9E%A5%20%EC%A2%8B%EC%9D%80%20%EA%B2%83%EB%A7%8C%20%EC%84%A0%ED%83%9D%ED%95%98%EB%8A%94%20%EA%B7%B8%EB%A6%AC%EB%94%94)
-    + [큰 수의 법칙](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99)
-    + [숫자 카드 게임](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84)
-    + [1이 될 때까지](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80)
-- 구현
-    + [상하좌우](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0)
-    + [시각](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81)
-    + [왕실의 나이트](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8)
-    + [행렬의 덧셈](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/Level1/%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88)
-    + [게임 개발](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%B5%AC%ED%98%84/%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C)
-- [DFS/BFS](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/DFS%EC%99%80BFS.md)
-    + [꼭 필요한 자료구조 기초](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EA%BC%AD%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%EA%B8%B0%EC%B4%88)
-    + [음료수 얼려 먹기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0)
-    + [미로 탈출](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%ED%83%90%EC%83%89%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C)
-- [정렬](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/%EC%A0%95%EB%A0%AC)
-
 <hr />
