@@ -58,7 +58,7 @@
     - [H-Index](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/H-index)
     - [짝지어 제거하기](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
     - [올바른 괄호](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
-    - [N개의 최소공배수]()
+    - [N개의 최소공배수](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
 
 <hr />
 
