@@ -60,7 +60,7 @@
     - [올바른 괄호](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8)
     - [N개의 최소공배수](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98)
     - [피보나치 수](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98/Solution.java)
-    - [오픈채팅방]()
+    - [오픈채팅방](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9)
 
 <hr />
 
