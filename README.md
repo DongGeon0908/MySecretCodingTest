@@ -65,6 +65,7 @@
     - [삼각 달팽이](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%82%BC%EA%B0%81%20%EB%8B%AC%ED%8C%BD%EC%9D%B4/Solution.java)
     - [더 맵게](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EB%8D%94%20%EB%A7%B5%EA%B2%8C)
     - [기능개발](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/Solution.java)
+    - [전화번호 목록](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D/Solution_1.java)
 
 <hr />
 
