@@ -68,6 +68,7 @@
     - [전화번호 목록](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D/Solution_1.java)
     - [위장](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/Level2/%EC%9C%84%EC%9E%A5)
     - [숫자의 표현](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84/Solution.java)
+    - [예상 대진표](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/Level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C/Solution.java)
 
 <hr />
 
