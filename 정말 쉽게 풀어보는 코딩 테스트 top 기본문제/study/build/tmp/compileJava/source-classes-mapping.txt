@@ -2,3 +2,5 @@ stringandarray2/SpiralMatrix.java
  stringandarray2.SpiralMatrix
 stringandarray2/GroupAnagrams.java
  stringandarray2.GroupAnagrams
+stringandarray2/TrappingRainWater.java
+ stringandarray2.TrappingRainWater
