@@ -69,7 +69,7 @@
     - [위장](https://github.com/DongGeon0908/MySecretCodingTest/tree/master/programmers/java/Level2/%EC%9C%84%EC%9E%A5)
     - [숫자의 표현](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84/Solution.java)
     - [예상 대진표](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C/Solution.java)
-    - [다리를 지나는 트럭]()
+    - [다리를 지나는 트럭](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD/Solution.java)
 
 <hr />
 
