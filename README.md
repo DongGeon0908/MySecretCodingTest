@@ -91,6 +91,7 @@
   - [동물 수 구하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EB%8F%99%EB%AC%BC%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
   - [이름에 el이 들어가는 동물찾기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EC%9D%B4%EB%A6%84%EC%97%90el%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0.sql)
   - [최솟값 구하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+  - [중복 제거하기]()
 
 
 <hr />
