@@ -93,6 +93,7 @@
   - [최솟값 구하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
   - [중복 제거하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)
   - [고양이와 개는 몇 마리 있을까](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%EA%B0%9C%EB%8A%94%EB%AA%87%EB%A7%88%EB%A6%AC%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
+  - [루시와 엘라 찾기]()
 
 
 <hr />
