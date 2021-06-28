@@ -95,7 +95,7 @@
   - [중복 제거하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)
   - [고양이와 개는 몇 마리 있을까](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%EA%B0%9C%EB%8A%94%EB%AA%87%EB%A7%88%EB%A6%AC%EC%9E%88%EC%9D%84%EA%B9%8C.sql)
   - [루시와 엘라 찾기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/%EB%A3%A8%EC%8B%9C%EC%99%80%20%EC%97%98%EB%9D%BC%20%EC%B0%BE%EA%B8%B0.sql)
-  - [DATETIME에서 DATE로 형 변환]()
+  - [DATETIME에서 DATE로 형 변환](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/sql/Level2/DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%20%EB%B3%80%ED%99%98.sql)
 
 
 <hr />
