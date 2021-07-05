@@ -9,3 +9,11 @@ stringandarray2/MissingRanges.java
 LinkedList/AddTwoNumbers.java
  LinkedList.AddTwoNumbers
  LinkedList.ListNode
+QueueAndStack/BaseballGame.java
+ QueueAndStack.BaseballGame
+LinkedList/ReverseLinkedList.java
+ LinkedList.ListNode
+ LinkedList.ReverseLinkedList
+LinkedList/MergeKSortedList.java
+ LinkedList.MergeKSortedList
+ LinkedList.MergeKSortedList$1
