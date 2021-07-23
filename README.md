@@ -76,6 +76,7 @@
     - [124 나라의 숫자](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90/Solution.java)
     - [스킬트리](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/Solution.java)
     - [문자열 압축](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/Solution.java)
+    - [타겟 넘버](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/Solution.java)
 
 <hr />
 
