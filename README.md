@@ -77,6 +77,10 @@
     - [스킬트리](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC/Solution.java)
     - [문자열 압축](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95/Solution.java)
     - [타겟 넘버](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84/Solution.java)
+- Level3
+    - [디스크 컨트롤러](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/Solution.java)
+    - [베스트앨범](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java)
+    - [이중우선순위큐](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/Solution.java)
 
 <hr />
 
