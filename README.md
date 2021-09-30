@@ -85,6 +85,7 @@
     - [구명보트](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8/Solution.java)
     - [튜플](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%ED%8A%9C%ED%94%8C/Solution.java)	
     - [괄호 회전하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EA%B4%84%ED%98%B8%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0/Solution.java)
+    - [순위 검색](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89/Solution.java)
 - Level3
     - [디스크 컨트롤러](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/Solution.java)
     - [베스트앨범](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java)
