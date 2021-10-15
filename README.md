@@ -94,6 +94,7 @@
     - [베스트앨범](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java)
     - [이중우선순위큐](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90/Solution.java)
     - [섬 연결하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/Solution.java)
+    - [단속카메라](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC/Solution.java)
 
 <hr />
 
