@@ -51,6 +51,7 @@
     + [없는 숫자 더하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0/Solution.java)
     + [복서 정렬하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level1/%EB%B3%B5%EC%84%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0/Solution.java)
     + [최소직사각형](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95/Solution.java)
+    + [나머지가 1이 되는 수 찾기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0/Solution.java)
 - Level2
     - [행렬의 곱셈](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88/Solution_1.java)
     - [이진 변환 반복하기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%9D%B4%EC%A7%84%20%EB%B3%80%ED%99%98%20%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0/Solution.java)
