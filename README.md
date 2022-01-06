@@ -93,6 +93,8 @@
     - [n^2 배열 자르기](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/n%5E2%20%EB%B0%B0%EC%97%B4%20%EC%9E%90%EB%A5%B4%EA%B8%B0/Solution.java)
     - [카카오프렌즈 컬러링북](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%BB%AC%EB%9F%AC%EB%A7%81%EB%B6%81/Solution.java)
     - [빛의 경로 사이클](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4/Solution.java)
+    - [2개 이하로 다른 비트](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level2/%5B2%EA%B0%9C%20%EC%9D%B4%ED%95%98%EB%A1%9C%20%EB%8B%A4%EB%A5%B8%20%EB%B9%84%ED%8A%B8%5D/Solution.java)
+    
 - Level3
     - [디스크 컨트롤러](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC/Solution.java)
     - [베스트앨범](https://github.com/DongGeon0908/MySecretCodingTest/blob/master/programmers/java/Level3/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/Solution.java)
